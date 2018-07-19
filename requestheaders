@@ -1,0 +1,27 @@
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch, br
+Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:BIGipServerwww.federalreserve.gov_hsts.app~www.federalreserve.gov_hsts_pool=!rjU6AKbkYLNG8EfFOmdmAL9AAnoPTUmrcLTw8DI9lpBVG+hvF6P4YeNVcLJiUpk7Q3uqX85pwLgsPQ==; _gat=1; _ga=GA1.2.1171269007.1531797333; _gid=GA1.2.125964692.1531910185
+Host:www.federalreserve.gov
+If-Modified-Since:Fri, 22 Jun 2018 23:25:20 GMT
+If-None-Match:"51d65c4980ad41:0"
+Referer:https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+
+
+
+
+headers1319 = {Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch, br
+Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:BIGipServerwww.federalreserve.gov_hsts.app~www.federalreserve.gov_hsts_pool=!rjU6AKbkYLNG8EfFOmdmAL9AAnoPTUmrcLTw8DI9lpBVG+hvF6P4YeNVcLJiUpk7Q3uqX85pwLgsPQ==; _ga=GA1.2.1171269007.1531797333; _gid=GA1.2.125964692.1531910185
+Host:www.federalreserve.gov
+If-Modified-Since:Thu, 05 Jul 2018 18:01:18 GMT
+If-None-Match:"106d952c8a14d41:0"
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36}
